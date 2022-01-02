@@ -1,0 +1,7 @@
+name: MobAI
+version: '${project.version}'
+main: me.shreyasayyengar.mobai.MobAIPlugin
+api-version: 1.17
+prefix: MobAI
+authors: [ Shreyas ]
+description: A plugin that prevents hostile mobs from targeting/attacking players in adventure mode.
